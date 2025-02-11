@@ -1,13 +1,16 @@
 ## 📖 Video Diffusion Models: A Survey
 
-Survey link: https://arxiv.org/abs/2405.03150
+Survey link: https://openreview.net/forum?id=rJSHjhEYJx
 
 ```
 @article{melnik2024video,
-  title={Video Diffusion Models: A Survey},
-  author={Melnik, Andrew and Ljubljanac, Michal and Lu, Cong and Yan, Qi and Ren, Weiming and Ritter, Helge},
-  journal={arXiv preprint arXiv:2405.03150},
-  year={2024}
+title={Video Diffusion Models: A Survey},
+author={Andrew Melnik and Michal Ljubljanac and Cong Lu and Qi Yan and Weiming Ren and Helge Ritter},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=rJSHjhEYJx},
+note={Survey Certification}
 }
 ```
 
